@@ -1,3 +1,6 @@
+
+ruby "3.2.0"  # Match the version Heroku detected in your build log
+
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
